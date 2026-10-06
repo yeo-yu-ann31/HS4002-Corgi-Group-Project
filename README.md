@@ -1,5 +1,3 @@
-# HS4002-Corgi-Group-Project
-
 # **HS4002-Corgi-Group-Project**
 
 ++**Elderly Healthcare Access in Singapore**++
