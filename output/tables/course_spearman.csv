@@ -5,6 +5,3 @@ x,y,rho,p,n
 Residents aged 65+,Km to nearest acute hospital,0.164,0.0171,212
 Residents aged 65+,Km to nearest public acute hospital,0.145,0.0352,212
 Residents aged 65+,% elderly with PT access,0.236,0.0005,212
-% in 1-2-room HDB,Km to nearest acute hospital,-0.056,0.4225,207
-% in 1-2-room HDB,Km to nearest public acute hospital,-0.111,0.1114,207
-% in 1-2-room HDB,% elderly with PT access,0.33,0.0,207
