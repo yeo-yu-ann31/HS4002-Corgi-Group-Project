@@ -9,3 +9,6 @@ libpysal
 esda
 mapclassify
 ipykernel
+statsmodels
+stargazer
+marginaleffects
