@@ -7,40 +7,31 @@ All the code in this repository aims to answer this research question.
 ```
 .
 ├── code/
-│   ├── .DS_Store
 │   ├── Version_1.ipynb --> this is the first version of our code, which we presented in week 8
 │   ├── Version_2.ipynb --> this is the second version of our code, which we presented in week 12
 │   └── packages.txt --> contains the packages we used to run our code
 ├── data/
 │   ├── processed/ --> this is the data we got after cleaning the census
-│   │   ├── ...
-│   │   ├── elderly_home_points.gpkg
-│   │   ├── subzone_elderly_access.csv
-│   │   └── subzone_elderly_access.gpkg
 │   └── raw/
-│       ├── oex/
-│       │   ├── ... --> this is the data we pulled from open street maps.
-│       ├── .gitkeep
+│       ├── oex/ --> this is the data we pulled from open street maps.
 │       ├── census2020_subzone_dwelling.csv (from Singstats)
 │       ├── census_2026_subzone_age_sex.csv (from Singstats)
 │       ├── moh_acute_hospitals.csv (created by combining hospital names with their location data)
 │       └── mp2019_subzone_no_sea.geojson (from URA)
 ├── output/
 │   ├── figures/
-│   │   ├── Version_1/ 
-│   │   │   └── ... --> the figures from week 8 are not relevant to our final analysis, but you can look
+│   │   ├── Version_1/ --> the figures from week 8 are not relevant to our final analysis, but you can look if curious
 │   │   ├── Version_2/
-│   │   │   ├── 01_map_elderly_share.png
-│   │   │   ├── 02_map_distance.png
-│   │   │   └── 03_boxplot_distance_by_region.png
+│   │   │   ├── 01_map_elderly_share.png --> choropleth map of elderly share by subzone
+│   │   │   ├── 02_map_distance.png --> choropleth map of distance of elderly to nearest hospital
+│   │   │   └── 03_boxplot_distance_by_region.png --> boxplot of distance of elderly to nearest hospital by region
 │   ├── tables/
-│   │   ├── Version_1/
-│   │   │   └── ... --> the tables from week 8 are not relevant to our final analysis, but you can look
+│   │   ├── Version_1/ --> again you can look if curious
 │   │   ├── Version_2/
-│   │   │   ├── course_descriptives.csv
-│   │   │   ├── course_elderly_by_distance.csv
-│   │   │   ├── course_elderly_by_region.csv
-│   │   │   └── course_spearman.csv
+│   │   │   ├── course_descriptives.csv --> shows summary statistics and skewness
+│   │   │   ├── course_elderly_by_distance_band.csv --> shows the distance of different elderly to the nearest hospital
+│   │   │   ├── course_elderly_by_region.csv --> shows the % of elderly per region
+│   │   │   └── course_spearman.csv --> spearman correlations between elderly concentration and access
 │   ├── census_clean_long.csv
 │   └── census_clean_wide.csv
 ├── .DS_Store
