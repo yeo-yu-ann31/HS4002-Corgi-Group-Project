@@ -1,4 +1,4 @@
-***"How does spatial clustering of elderly populations correlate with access to healthcare services?"***
+***"How does spatial clustering of elderly populations correlate with access to acute healthcare services?"***
 
 All the code in this repository aims to answer this research question. 
 
