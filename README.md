@@ -28,8 +28,6 @@ The goal of this project is to assess whether existing acute health facilities i
   - 
   1. Straight-line distance (km) from home to nearest acute hospital.
   1. Binary classification: Has PT access if a bus/MRT stop is within 400m of home.
-- **Financial Limitation** --> Low income
-  - Share of residents living in HDB 1–2-room flats (Census 2020), a standard small-area proxy for low income/public rental.
 
 ++**Data Sources**++
 
