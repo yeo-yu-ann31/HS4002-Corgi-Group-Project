@@ -1,0 +1,16 @@
+need,access,rho,p,n
+Share 65+,Km to nearest acute hospital,-0.139,0.0431,212
+Share 65+,Km to nearest public acute hospital,-0.079,0.255,212
+Share 65+,Extra km to reach a public hospital,0.21,0.00212,212
+Share 65+,% elderly with PT access,0.143,0.0369,212
+Share 65+,Walk from home to nearest stop (m),-0.12,0.082,212
+Count 65+,Km to nearest acute hospital,0.164,0.0171,212
+Count 65+,Km to nearest public acute hospital,0.145,0.0352,212
+Count 65+,Extra km to reach a public hospital,-0.125,0.0694,212
+Count 65+,% elderly with PT access,0.236,0.000528,212
+Count 65+,Walk from home to nearest stop (m),-0.274,5.18e-05,212
+% in 1-2-room HDB,Km to nearest acute hospital,-0.056,0.423,207
+% in 1-2-room HDB,Km to nearest public acute hospital,-0.111,0.111,207
+% in 1-2-room HDB,Extra km to reach a public hospital,-0.075,0.283,207
+% in 1-2-room HDB,% elderly with PT access,0.33,1.21e-06,207
+% in 1-2-room HDB,Walk from home to nearest stop (m),-0.302,1e-05,207
