@@ -1,0 +1,18 @@
+planning_area,subzone,pop65,pct65,lisa_pct65,nearest_any,dist_km_any,nearest_public,dist_km_public,pct_pt_access,pop65_no_pt,pct_1_2room,far_from_hospital,low_pt_access,low_income
+Choa Chu Kang,Teck Whye,5550,23.1,Not significant,Ng Teng Fong General Hospital,5.2,Ng Teng Fong General Hospital,5.2,100.0,0.0,7.2,True,False,True
+Ang Mo Kio,Yio Chu Kang West,6030,24.9,Not significant,Mount Alvernia Hospital,4.2,Khoo Teck Puat Hospital,4.7,100.0,0.0,11.0,True,False,True
+Ang Mo Kio,Kebun Bahru,5960,27.8,High-High,Mount Alvernia Hospital,3.4,Institute of Mental Health,5.2,100.0,0.0,7.0,True,False,True
+Ang Mo Kio,Chong Boon,7550,30.9,High-High,Mount Alvernia Hospital,3.2,Institute of Mental Health,3.7,100.0,0.0,5.5,True,False,True
+Jurong West,Yunnan,11960,18.5,Not significant,Ng Teng Fong General Hospital,5.8,Ng Teng Fong General Hospital,5.8,100.0,0.0,2.3,True,False,False
+Choa Chu Kang,Yew Tee,6070,15.7,Not significant,Woodlands Hospital,5.8,Woodlands Hospital,5.8,100.0,0.0,0.0,True,False,False
+Bukit Panjang,Bangkit,5140,25.1,Not significant,Woodlands Hospital,5.5,Woodlands Hospital,5.5,100.0,0.0,0.0,True,False,False
+Bukit Panjang,Jelebu,6500,22.3,Not significant,Ng Teng Fong General Hospital,5.3,Ng Teng Fong General Hospital,5.3,100.0,0.0,0.0,True,False,False
+Choa Chu Kang,Peng Siang,5700,17.4,Not significant,Ng Teng Fong General Hospital,5.1,Ng Teng Fong General Hospital,5.1,100.0,0.0,1.2,True,False,False
+Jurong West,Jurong West Central,9510,15.8,Not significant,Ng Teng Fong General Hospital,5.0,Ng Teng Fong General Hospital,5.0,100.0,0.0,0.1,True,False,False
+Pasir Ris,Loyang East,540,25.6,High-Low,Changi General Hospital,3.8,Changi General Hospital,3.8,100.0,0.0,0.0,True,False,False
+Ang Mo Kio,Cheng San,7130,27.3,High-High,Institute of Mental Health,3.5,Institute of Mental Health,3.6,100.0,0.0,3.5,True,False,False
+Serangoon,Serangoon Central,6420,29.3,Not significant,Mount Alvernia Hospital,3.4,Institute of Mental Health,3.7,100.0,0.0,0.0,True,False,False
+Pasir Ris,Pasir Ris Drive,10130,20.3,Not significant,Changi General Hospital,3.4,Changi General Hospital,3.4,100.0,0.0,1.5,True,False,False
+Jurong West,Hong Kah,12150,24.0,High-Low,Ng Teng Fong General Hospital,3.3,Ng Teng Fong General Hospital,3.3,100.0,0.0,1.5,True,False,False
+Woodlands,North Coast,2740,25.0,High-Low,Woodlands Hospital,3.2,Woodlands Hospital,3.2,100.0,0.0,1.0,True,False,False
+Bukit Batok,Hong Kah North,5910,24.2,High-Low,Ng Teng Fong General Hospital,3.1,Ng Teng Fong General Hospital,3.1,100.0,0.0,2.9,True,False,False
